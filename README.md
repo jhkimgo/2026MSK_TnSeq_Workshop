@@ -84,6 +84,6 @@ Parameters such as trimming length, mapping criteria, transposon target sequence
 │   └── Workflow3_Circos_Visualization
 │
 ├── Example_Data/
-│   ├── Workflow1_Input/
-│   ├── Workflow2_Input/
-│   └── Workflow3_Input/
+    ├── Workflow1_Input/
+    ├── Workflow2_Input/
+    └── Workflow3_Input/
