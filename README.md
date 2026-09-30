@@ -7,6 +7,7 @@ This repository contains the manuals, Galaxy workflows, and example datasets use
 The workshop covers the experimental principles of transposon insertion sequencing (Tn-seq) and a practical Galaxy-based workflow for processing Himar/Mariner Tn-seq data, performing TRANSIT analysis, and visualizing genome-wide insertion patterns.
 
 **Instructor:** Wonsik Lee. Ph.D. 
+
 **Sungkyunkwan University (SKKU), School of Pharmacy**
 
 ---
