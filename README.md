@@ -87,5 +87,3 @@ Parameters such as trimming length, mapping criteria, transposon target sequence
 │   ├── Workflow1_Input/
 │   ├── Workflow2_Input/
 │   └── Workflow3_Input/
-│
-└── Expected_Results/
